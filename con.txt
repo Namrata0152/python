@@ -1,0 +1,5 @@
+Windows_Command_Prompt Running_in_Background 55 69 66 89 01/01/20 14:00
+Libro_Office Running_in_Background 50 41 25 60 01/02/20 9:00
+Libro_Office Running_in_Foreground 50 63 71 69 01/08/20 11:00
+Apache_HTTP_Server Running_in_Background 62 54 62 87 01/09/20 15:00
+Apache_HTTP_Server Running_in_Foreground 97 75 22 60 01/10/20 15:00
